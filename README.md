@@ -1,0 +1,2 @@
+# gempa.js
+gempa
